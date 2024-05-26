@@ -1,0 +1,1 @@
+{"version":3,"file":"HttpClient.js","sourceRoot":"","sources":["HttpClient.ets"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,aAAa,CAAA;AAG/B,MAAO,SAAS,GAAG,KAAK,CAAC,MAAM,CAAC;IAC9B,OAAO,EAAE,0BAA0B;IACnC,OAAO,EAAE,IAAI;IACb,OAAO,EAAE;QACP,cAAc,EAAE,kBAAkB;QAClC,uDAAuD;KACxD;CACF,CAAC,CAAA;AAEF,eAAgB,SAAS,CAAA"}

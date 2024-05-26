@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/MainPage",
+    "pages/ProfilePage",
+    "pages/FriendAddPage",
+    "pages/FriendNewPage",
+    "pages/MessagePage"
+  ]
+}
