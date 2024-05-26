@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /node_modules
 /oh_modules
 /local.properties
@@ -11,6 +12,8 @@
 /.clang-tidy
 **/.test
 =======
+=======
+>>>>>>> 4ca3415929a447a7b6d3157c09ec676c47320b6a
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -44,4 +47,7 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
+>>>>>>> 4ca3415929a447a7b6d3157c09ec676c47320b6a
+=======
 >>>>>>> 4ca3415929a447a7b6d3157c09ec676c47320b6a
